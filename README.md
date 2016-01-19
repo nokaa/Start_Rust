@@ -16,10 +16,11 @@ You should now have Rust setup, and you should have some understanding of how Ru
 You should now have a handle on programming with Rust. Now you should go and learn whatever interests you! Here is a quick list of resources that you might find interesting or useful.
 
 *Note that I've linked to the nightly versions of the first three resources*
-[The Rust Book](https://doc.rust-lang.org/nightly/book/)
-[Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
-[Rust Style Guide](https://doc.rust-lang.org/nightly/style/a)
-[Phil Opp's Writing an OS in Rust](http://os.phil-opp.com/)
-[Raspberry Pi Bare Metal Programming With Rust](https://blog.thiago.me/raspberry-pi-bare-metal-programming-with-rust/)
+
+- [The Rust Book](https://doc.rust-lang.org/nightly/book/)
+- [Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
+- [Rust Style Guide](https://doc.rust-lang.org/nightly/style/a)
+- [Phil Opp's Writing an OS in Rust](http://os.phil-opp.com/)
+- [Raspberry Pi Bare Metal Programming With Rust](https://blog.thiago.me/raspberry-pi-bare-metal-programming-with-rust/)
 
 Know of a good resource that I haven't listed here? Submit a pull request, or open an issue!
