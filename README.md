@@ -11,3 +11,15 @@ At this point you should have the Rust compiler installed. You should also have 
 Finally, we can begin working with Rust. At this point you should read through the first 3 chapters of [The Rust Book](https://doc.rust-lang.org/book/). You can skip much of the second chapter, because we've already covered installing Rust. You should go through all of the third chapter, so that you can get a feel for working with Rust. After reading through chapter 3, go ahead and read more about [cargo](http://doc.crates.io/guide.html). Cargo is a very important tool in the world of Rust, so taking some time early on to learn more about it will be helpful later on. At this point you should skim through chapters 4 and 5 of _The Rust Book_. If you're anything like me, reading both chapters without writing any code would be disheartening, so you should just skim through bits that look interesting for now. The book isn't going anywhere, so you can always come back to sections when you want to use them!
 
 You should now have Rust setup, and you should have some understanding of how Rust works. Now we're going to get our hands dirty and start writing some code! A good series aimed at new rustaceans that I've found useful is Jadpole's [ArcadeRS](https://jadpole.github.io/arcaders/arcaders-1-0/). This series goes over building a video game in Rust, but it has a strong focus on teaching parts of Rust.
+
+### Additional Resources
+You should now have a handle on programming with Rust. Now you should go and learn whatever interests you! Here is a quick list of resources that you might find interesting or useful.
+
+*Note that I've linked to the nightly versions of the first three resources*
+[The Rust Book](https://doc.rust-lang.org/nightly/book/)
+[Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
+[Rust Style Guide](https://doc.rust-lang.org/nightly/style/a)
+[Phil Opp's Writing an OS in Rust](http://os.phil-opp.com/)
+[Raspberry Pi Bare Metal Programming With Rust](https://blog.thiago.me/raspberry-pi-bare-metal-programming-with-rust/)
+
+Know of a good resource that I haven't listed here? Submit a pull request, or open an issue!
