@@ -12,7 +12,9 @@ Finally, we can begin working with Rust. At this point you should read through t
 
 An excellent website, [Rust By Example](http://rustbyexample.com/), has been created; which walks you through small programs in order to introduce you to the various features that Rust has to offer. I would recommend looking over the sections that interest you, rather than going through the whole thing at once. Keep this great resource in mind as you work with Rust more in the future.
 
-You should now have Rust setup, and you should have some understanding of how Rust works. Now we're going to get our hands dirty and start writing some code! A good series aimed at new rustaceans that I've found useful is Jadpole's [ArcadeRS](https://jadpole.github.io/arcaders/arcaders-1-0/). This series goes over building a video game in Rust, but it has a strong focus on teaching parts of Rust.
+You should now have Rust setup, and you should have some understanding of how Rust works. Now we're going to get our hands dirty and start writing some code! A good series aimed at new rustaceans that I've found useful is Jadpole's [ArcadeRS](https://jadpole.github.io/arcaders/arcaders-1-0/). This series goes over building a video game in Rust, but it has a strong focus on teaching us Rust.
+
+*Note:* A class has just started at Penn that looks to be about teaching Rust. They have been kind enough to make all of their slides and homeworks [available online](https://cis198-2016s.github.io/), so go and check it out!
 
 ### Additional Resources
 You should now have a handle on programming with Rust. Now you should go and learn whatever interests you! Here is a quick list of resources that you might find interesting or useful.
