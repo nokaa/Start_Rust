@@ -23,7 +23,7 @@ You should now have a handle on programming with Rust. Now you should go and lea
 
 - [The Rust Book](https://doc.rust-lang.org/nightly/book/)
 - [Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
-- [Rust Style Guide](https://doc.rust-lang.org/nightly/style/a)
+- [Rust Style Guide](https://doc.rust-lang.org/nightly/style/)
 - [Rust By Example](http://rustbyexample.com/)
 - [Phil Opp's Writing an OS in Rust](http://os.phil-opp.com/)
 - [Raspberry Pi Bare Metal Programming With Rust](https://blog.thiago.me/raspberry-pi-bare-metal-programming-with-rust/)
